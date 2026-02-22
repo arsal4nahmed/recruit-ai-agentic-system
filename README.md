@@ -117,3 +117,12 @@ https://drive.google.com/file/d/1C_Z5RaqCATFTidpTVWK4vD9M3pr0zR7X/view
 
 5-min Video Pitch:  
 https://www.loom.com/share/d2987a369a534b2b9a302f8f7999beb3
+
+## Tech Stack
+
+- Python
+- LLM APIs
+- JSON structured outputs
+- REST-based workflow automation
+- Prompt Engineering
+- Evaluation metrics
