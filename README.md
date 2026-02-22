@@ -1,5 +1,5 @@
 # Recruit-AI
-Agentic AI Hiring Assistant for Small & Mid-Sized Companies
+Agentic AI hiring assistant reducing screening time by 70% and time-to-hire by 40%.
 
 ---
 
